@@ -47,6 +47,14 @@ The Python script (`main.py`) performs the following steps:
 
 ---
 
+## 💾 Data
+Download the Airbnb Dataset from Kaggle:
+
+The project requires Listings.csv and Reviews.csv. Download the dataset from the following link:
+https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
+
+Place the downloaded Listings.csv and Reviews.csv files in your project directory.
+
 ## ⚙️ How to Run
 
 ### Prerequisites
